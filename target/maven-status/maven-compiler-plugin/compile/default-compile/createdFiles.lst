@@ -1,0 +1,7 @@
+xyz\thesparkle\redis\utils\config\ConfigCursor.class
+xyz\thesparkle\redis\utils\Color.class
+xyz\thesparkle\redis\managers\RedisManager.class
+xyz\thesparkle\redis\sRedis.class
+xyz\thesparkle\redis\utils\config\BukkitConfigHelper.class
+xyz\thesparkle\redis\utils\GameServer.class
+xyz\thesparkle\redis\commands\StatusCommand.class

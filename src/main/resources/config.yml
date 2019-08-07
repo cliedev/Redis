@@ -1,0 +1,6 @@
+server:
+  name: "HUB-01"
+redis:
+  address: "127.0.0.1"
+  port: 6379
+  password: "p@ss$12E45"

@@ -1,0 +1,4 @@
+name: sRedis
+main: xyz.thesparkle.redis.sRedis
+version: 1.0
+author: Clie
